@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Demo</string>
+    <string name="login_success">Login Success</string>
+    <string name="login_user_name_hint">User Name</string>
+    <string name="login_password_hint">Password</string>
+    <string name="login_title_button_login">Login</string>
+</resources>
